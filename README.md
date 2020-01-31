@@ -43,7 +43,7 @@ I komanda koja je na istom redu u fajlu komande.cfg bice izvrsena.
 
 ## Licence
 
-Ovaj projekat je licenciran pod Apache Licencom 2 - Pogledajte [LICENCA.md](LICENCA.md) za detalje.
+Ovaj projekat je licenciran pod Apache Licencom 2 - Pogledajte LICENCA.md za detalje.
 
 ## Priznanja
 
