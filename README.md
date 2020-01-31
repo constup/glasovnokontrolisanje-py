@@ -35,7 +35,7 @@ Nakon dobijanja poruke '#CEKAM KOMANDU#'
 Izgovorite komandu koja je unapred sacuvana u konfiguracionom fajlu reci.cfg 
 I komanda koja je na istom redu u fajlu komande.cfg bice izvrsena.
 
-```
+
 
 ## Autori
 
