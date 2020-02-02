@@ -1,6 +1,6 @@
 # glasovnokontrolisanje-py
 
-#### Jednostavan program za glasovno pokretanje komanda kodiran u python-u.
+#### Jednostavan program za glasovno pokretanje komanda, i diktiranje teksta kodiran u python-u.
 
 
 
